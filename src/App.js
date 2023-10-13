@@ -1,24 +1,32 @@
-import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import HeroSection from './components/HeroSection';
+import LayersSection from './components/LayersSection';
+import OurProject from './components/OurProject';
+import Benefit from './components/Benefit';
+import Whitepapper from './components/Whitepapper';
+import RoadMap from './components/RoadMap';
+import TimerClock from './components/TimerClock';
+import Tokenomics from './components/Tokenomics';
+import Platforms from './components/Platforms';
+import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <div className='overflow-hidden'>
+        <HeroSection />
+        <LayersSection />
+        <OurProject />
+        <Benefit />
+        <Whitepapper />
+        <RoadMap />
+        <TimerClock />
+        <Tokenomics />
+        <Platforms />
+        <Footer />
+      </div>
+    </>
   );
 }
 
