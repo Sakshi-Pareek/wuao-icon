@@ -57,9 +57,9 @@ export const InImg = () => {
           y2="25.8741"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FFBA3B" />
-          <stop offset="0.5315" stop-color="#FFA53B" />
-          <stop offset="1" stop-color="#FF983B" />
+          <stop stopColor="#FFBA3B" />
+          <stop offset="0.5315" stopColor="#FFA53B" />
+          <stop offset="1" stopColor="#FF983B" />
         </linearGradient>
       </defs>
     </svg>
@@ -88,9 +88,9 @@ export const NavDiscord = () => {
           y2="22.3463"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FFBA3B" />
-          <stop offset="0.5315" stop-color="#FFA53B" />
-          <stop offset="1" stop-color="#FF983B" />
+          <stop stopColor="#FFBA3B" />
+          <stop offset="0.5315" stopColor="#FFA53B" />
+          <stop offset="1" stopColor="#FF983B" />
         </linearGradient>
       </defs>
     </svg>
@@ -119,9 +119,9 @@ export const NavTelegram = () => {
           y2="22.7263"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FFBA3B" />
-          <stop offset="0.5315" stop-color="#FFA53B" />
-          <stop offset="1" stop-color="#FF983B" />
+          <stop stopColor="#FFBA3B" />
+          <stop offset="0.5315" stopColor="#FFA53B" />
+          <stop offset="1" stopColor="#FF983B" />
         </linearGradient>
       </defs>
     </svg>
@@ -150,9 +150,9 @@ export const NavTwitter = () => {
           y2="22.7595"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FFBA3B" />
-          <stop offset="0.5315" stop-color="#FFA53B" />
-          <stop offset="1" stop-color="#FF983B" />
+          <stop stopColor="#FFBA3B" />
+          <stop offset="0.5315" stopColor="#FFA53B" />
+          <stop offset="1" stopColor="#FF983B" />
         </linearGradient>
       </defs>
     </svg>
@@ -183,9 +183,9 @@ export const RoadMapArrow = () => {
           y2="152.264"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FFBA3B" />
-          <stop offset="0.5315" stop-color="#FFA53B" />
-          <stop offset="1" stop-color="#FF983B" />
+          <stop stopColor="#FFBA3B" />
+          <stop offset="0.5315" stopColor="#FFA53B" />
+          <stop offset="1" stopColor="#FF983B" />
         </linearGradient>
       </defs>
     </svg>
